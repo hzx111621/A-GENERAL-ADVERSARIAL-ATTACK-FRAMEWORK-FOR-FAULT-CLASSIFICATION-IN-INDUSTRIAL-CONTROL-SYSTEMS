@@ -1,0 +1,2 @@
+# A-GENERAL-ADVERSARIAL-ATTACK-FRAMEWORK-FOR-FAULT-CLASSIFICATION-IN-INDUSTRIAL-CONTROL-SYSTEMS
+This repository contains the official implementation of the paper: "A General Adversarial Attack Framework for Fault Classification in Industrial Control Systems", currently under submission to ICASSP 2026.
